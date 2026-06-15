@@ -42,7 +42,7 @@ The Node-RED dashboard displays:
 * LED status indicator
 
 ![image alt](https://github.com/Grimmerd1/Smart_Hand_Sanitizer_Dispenser/blob/main/alcohol_level_1.png?raw=true)
-
+![image alt](https://github.com/Grimmerd1/Smart_Hand_Sanitizer_Dispenser/blob/main/alcohol_level_2.png?raw=true)
 
 ## Results
 
