@@ -41,6 +41,8 @@ The Node-RED dashboard displays:
 * Distance gauge
 * LED status indicator
 
+https://github.com/Grimmerd1/Smart_Hand_Sanitizer_Dispenser/blob/main/alcohol_level_1.png?raw=true
+
 ## Results
 
 The system successfully provides automatic sanitizer dispensing and real-time monitoring, reducing physical contact while improving hygiene and maintenance awareness.
