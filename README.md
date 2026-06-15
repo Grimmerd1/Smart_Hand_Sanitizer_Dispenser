@@ -33,6 +33,8 @@ User → Ultrasonic Sensor → ESP32 → MQTT Broker → Node-RED Dashboard
 * Sanitizer level ≥ 30% → Green LED
 * Sanitizer level < 30% → Red LED warning
 
+![image alt](https://github.com/Grimmerd1/Smart_Hand_Sanitizer_Dispenser/blob/main/code.png?raw=true)
+
 ## Dashboard
 
 The Node-RED dashboard displays:
