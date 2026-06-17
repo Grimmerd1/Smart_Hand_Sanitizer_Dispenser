@@ -46,6 +46,10 @@ The Node-RED dashboard displays:
 ![image alt](https://github.com/Grimmerd1/Smart_Hand_Sanitizer_Dispenser/blob/main/alcohol_level_1.png?raw=true)
 ![image alt](https://github.com/Grimmerd1/Smart_Hand_Sanitizer_Dispenser/blob/main/alcohol_level_2.png?raw=true)
 
+## Documentation
+
+📄[Project Presentation](https://github.com/Grimmerd1/Smart_Hand_Sanitizer_Dispenser/blob/main/Smart%20Hand%20Sanitizer%20Dispenser.pdf)
+
 ## Video
 
 🎥https://www.youtube.com/watch?v=9DcBs5Z7yto
